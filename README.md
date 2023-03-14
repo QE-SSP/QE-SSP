@@ -1,4 +1,4 @@
-# SSP-QE
+# QE-SSP
 
 This repository contains example codes for our book:
 
